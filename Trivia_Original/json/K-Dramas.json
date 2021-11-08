@@ -1,0 +1,47 @@
+[ 
+    {
+    "categoria": "K-Dramas",
+    "pregunta": "¿Quien es la protagonista?",
+    "respuesta": "Jan Di",
+    "incorrecta1": "Kamilla",
+    "incorrecta2": "Lisa",
+    "incorrecta3": "Jisoo",
+    "imagen": "https://pa1.narvii.com/6702/3c1c490013c0889974ebc2638a61c3f86acd9be9_hq.gif"
+},
+{
+    "categoria": "K-Dramas",
+    "pregunta": "¿De qué origen es el dorama?",
+    "respuesta": "Corea del Sur",
+    "incorrecta1": "China",
+    "incorrecta2": "Corea del norte",
+    "incorrecta3": "Japón",
+    "imagen": "https://pa1.narvii.com/6493/c1fb4d079e00500bd085da92e58d62aaf1e09561_hq.gif"
+},
+{
+    "categoria": "K-Dramas",
+    "pregunta": "¿Cuantos episodios tiene el dorama?",
+    "respuesta": "20 episodios",
+    "incorrecta1": "18 episodios",
+    "incorrecta2": "12 episodios",
+    "incorrecta3": "22 episodios",
+    "imagen": "http://farm9.staticflickr.com/8392/8497512561_907ff8b5fa.jpg"
+},
+{
+    "categoria": "K-Dramas",
+    "pregunta": "¿De que se inspiro la serie?",
+    "respuesta": "Webtoon",
+    "incorrecta1": "Manga",
+    "incorrecta2": "Anime",
+    "incorrecta3": "Manhwa",
+    "imagen": "https://64.media.tumblr.com/3a465f44f0d527549f9fdee1ea1d3d68/754eae95f62c675b-c7/s2048x3072_c2857,0,96984,100000/bdac41a68b7cf7aa0b87206a6ca60c194a58b116.gif"
+},
+{
+    "categoria": "K-Dramas",
+    "pregunta": "¿Al final quien se convierte en emperador?",
+    "respuesta": "Wang So",
+    "incorrecta1": "Go Ha Jin",
+    "incorrecta2": "Hae Soo",
+    "incorrecta3": "Wang Wook",
+    "imagen": "https://misnovelicasblog.files.wordpress.com/2018/02/moon-lovers-scarlet-heart-ryeo-drama.gif"
+}
+]

@@ -1,0 +1,47 @@
+[ 
+{
+    "categoria": "Peliculas",
+    "pregunta": "¿Eddie brock que profesionalidad ejerce?",
+    "respuesta": "Periodista",
+    "incorrecta1": "Doctor",
+    "incorrecta2": "Abogado",
+    "incorrecta3": "Profesor",
+    "imagen": "https://www.informador.mx/__export/1539011646163/sites/elinformador/img/2018/10/08/venom_crop1539011584728.jpg_1970638775.jpg"
+},
+{
+    "categoria": "Peliculas",
+    "pregunta": "¿Doctor strange cuantos futuros alternos vio?",
+    "respuesta": "14000702",
+    "incorrecta1": "14000501",
+    "incorrecta2": "14000605",
+    "incorrecta3": "14003675",
+    "imagen": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dr-strange-1544712323.gif?crop=1xw:1xh;center,top&resize=480:*"
+},
+{
+    "categoria": "Peliculas",
+    "pregunta": "¿De quién es el cuerpo de megamente, cuando el sale con roxanne ritchi?",
+    "respuesta": "Bernad",
+    "incorrecta1": "El padre espacial de titan",
+    "incorrecta2": "Metro man",
+    "incorrecta3": "Oliver",
+    "imagen": "https://c.tenor.com/dP-4nqr7otoAAAAC/megamind-cut-it.gif"
+},
+{
+    "categoria": "Peliculas",
+    "pregunta": "¿Cual de los tres ladrones sale con vida de la casa del hombre ciego?",
+    "respuesta": "Rocky",
+    "incorrecta1": "Money",
+    "incorrecta2": "Samuel",
+    "incorrecta3": "Alex",
+    "imagen": "https://img.aullidos.com/imagenes/noticias/tw-36371.jpg"
+},
+{
+    "categoria": "Peliculas",
+    "pregunta": "¿Qué cuento está leyendo Shrek en el baño?",
+    "respuesta": "La Bella Durmiente",
+    "incorrecta1": "La cenicienta",
+    "incorrecta2": "Blancanieves",
+    "incorrecta3": "Barbie",
+    "imagen": "https://c.tenor.com/mOY4-jCCergAAAAd/shrek-shrek-minions.gif"
+}
+]

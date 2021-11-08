@@ -1,0 +1,119 @@
+* {
+    display: block;
+    width: 100%;
+}
+
+.welcome_form input {
+    background-color: transparent;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.welcome_form input:focus {
+    outline: none;
+}
+
+.welcome_form button {
+    padding: 20px 0;
+    border: none;
+    border-radius: 100px;
+    background-color: #fff;
+    color: #f7099b;
+    font-size: 22px;
+    transition: 0.4s all;
+}
+
+.welcome_form button:hover {
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+
+* {
+    transition: all 0.3s;
+}
+body {
+    background: cadetblue;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: calibri;
+    font-size: 120%;
+}
+
+.contenedor {
+    width: 98vw;
+    height: 97vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.encabezado {
+    position: relative;
+    background: white;
+    min-width: 300px;
+    width: 70%;
+    max-width: 600px;
+    padding: 10px;
+}
+
+.categoria {
+    opacity: 0.3;
+    text-align: left;
+}
+
+.pregunta {
+    padding: 10px;
+}
+
+.imagen {
+    object-fit: cover;
+    height: 0px;
+    width: 0px;
+}
+
+.btn {
+    background: white;
+    width: 60%;
+    max-width: 550px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+}
+
+.puntaje{
+    padding:10px;
+    color:white;
+}
+
+.award_icon {
+    display: block;
+    font-size: 300px;
+    color: #fff;
+}
+
+.username,
+.userpoints,
+.usertime {
+    color: #fff;
+    text-align: center;
+    margin-top: 15px;
+}

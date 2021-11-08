@@ -1,0 +1,51 @@
+[
+    {
+        "categoria": "Series",
+        "pregunta": "¿Qué signo es beck?",
+        "respuesta": "Sagitario",
+        "incorrecta1": "Escorpio",
+        "incorrecta2": "Tauro",
+        "incorrecta3": "Geminis",
+        "imagen": "https://i.ytimg.com/vi/USHUeHaGVok/maxresdefault.jpg"
+        
+    },
+    {
+        "categoria": "Series",
+        "pregunta": "¿Nanno que presenta?",
+        "respuesta": "karma",
+        "incorrecta1": "Venganza",
+        "incorrecta2": "Amor",
+        "incorrecta3": "Paz",
+        "imagen": "https://www.todofullxd.com/wp-content/uploads/2021/05/La-Chica-Nueva-Temporada-1-y-2-HD-720p-Latino-Dual.jpg"
+        
+    },
+    {
+        "categoria": "Series",
+        "pregunta": "¿Rob con quien cambia de cuerpo primero?",
+        "respuesta": "Adele",
+        "incorrecta1": "Louis",
+        "incorrecta2": "Daniel",
+        "incorrecta3": "Eva",
+        "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/02/18/16136481257136.jpg"
+
+    },
+    {
+        "categoria": "Series",
+        "pregunta": "¿Qué jugador quedo con vida?",
+        "respuesta": "456",
+        "incorrecta1": "556",
+        "incorrecta2": "101",
+        "incorrecta3": "500",
+        "imagen": "https://as.com/meristation/imagenes/2021/09/28/videos/1632823754_596212_1632823812_noticia_normal_recorte1.jpg"
+        
+    },
+    {
+        "categoria": "Series",
+        "pregunta": "¿De quién era el plan original de asaltar la Casa de Moneda y Timbre de España?",
+        "respuesta": "Del padre del Profesor",
+        "incorrecta1": "Del Profesor",
+        "incorrecta2": "Del hermano del Profesor",
+        "incorrecta3": "Del hijo del Profesor",
+        "imagen": "https://i.blogs.es/8c24df/la-casa-de-papel/840_560.jpeg"
+    }
+]

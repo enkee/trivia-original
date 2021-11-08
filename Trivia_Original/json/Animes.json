@@ -1,0 +1,47 @@
+[
+    {
+        "categoria": "Animes",
+        "pregunta": "¿Qué busca Inuyasha?",
+        "respuesta": "La Perla de Shikon",
+        "incorrecta1": "Su espada",
+        "incorrecta2": "Un libro",
+        "incorrecta3": "Una persona",
+        "imagen": "https://i.pinimg.com/originals/4a/e0/dd/4ae0ddf2c90c8d70cf34711044df0356.gif"
+    },
+    {
+        "categoria": "Animes",
+        "pregunta": "¿Cuál es el apellido de Sakura en Sakura Card Captor?",
+        "respuesta": "Kinomoto",
+        "incorrecta1": "Sakamoto",
+        "incorrecta2": "Lee",
+        "incorrecta3": "Kim",
+        "imagen": "https://k60.kn3.net/taringa/5/9/B/B/E/4/katsurarin7/DBA.gif"
+    },
+    {
+        "categoria": "Animes",
+        "pregunta": "¿Qué poder tiene desde su nacimiento Izuku Midoriya en My Hero Academia?",
+        "respuesta": "Ninguno",
+        "incorrecta1": "Teletransportación",
+        "incorrecta2": "Agua",
+        "incorrecta3": "Fuego",
+        "imagen": "https://media.giphy.com/media/3o7aCSo4BckyTI7kqY/giphy.gif"
+    },
+    {
+        "categoria": "Animes",
+        "pregunta": "¿Cómo se llaman los ojos de un Ghoul, en Tokyo Ghoul?",
+        "respuesta": "Kakugan",
+        "incorrecta1": "Bakugan",
+        "incorrecta2": "Bokugan",
+        "incorrecta3": "Gankubo",
+        "imagen": "https://c.tenor.com/QRjNDFLM7BYAAAAC/tokyo-ghoul-anime.gif"
+    },
+    {
+        "categoria": "Animes",
+        "pregunta": "En Sailor Moon, ¿Quién es el Guardián de los Sueños?",
+        "respuesta": "Pegasus",
+        "incorrecta1": "Seiya Kou",
+        "incorrecta2": "Aya Hisakawa",
+        "incorrecta3": "Beethoven",
+        "imagen": "https://cafetoons.net/wp-content/uploads/2020/04/giphy-1-2.gif"
+    }
+]
